@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(39,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(39,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(53,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(53,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(68,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(68,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(131,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\使用栈解决迷宫问题\FileName.cpp(131,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  使用栈解决迷宫问题.vcxproj -> C:\Users\DELL\Desktop\栈\使用栈解决迷宫问题\x64\Debug\使用栈解决迷宫问题.exe

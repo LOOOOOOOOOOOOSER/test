@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\DELL\Desktop\串\用串实现BF算法\用串实现BF算法\FileName.cpp(14,1): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1):
+  参见“OVERFLOW”的前一个定义
+  
+  用串实现BF算法.vcxproj -> C:\Users\DELL\Desktop\串\用串实现BF算法\x64\Debug\用串实现BF算法.exe

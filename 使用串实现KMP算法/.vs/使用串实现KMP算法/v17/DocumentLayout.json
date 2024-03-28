@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\\u4E32\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D508848D-F5DE-4B62-A48A-E5CF076CAD86}|\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5.vcxproj|C:\\Users\\DELL\\Desktop\\\u4E32\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D508848D-F5DE-4B62-A48A-E5CF076CAD86}|\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5.vcxproj|solutionrelative:\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u4E32\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\FileName.cpp",
+              "RelativeDocumentMoniker": "\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\FileName.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u4E32\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\FileName.cpp",
+              "RelativeToolTip": "\u4F7F\u7528\u4E32\u5B9E\u73B0KMP\u7B97\u6CD5\\FileName.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T04:43:39.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

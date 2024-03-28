@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(39,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(39,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(53,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(53,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(68,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(68,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(122,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\使用队列解决迷宫问题（广度优先搜索）\FileName.cpp(122,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  使用队列解决迷宫问题（广度优先搜索）.vcxproj -> C:\Users\DELL\Desktop\队列\使用队列解决迷宫问题（广度优先搜索）\x64\Debug\使用队列解决迷宫问题（广度优先搜索）.exe
